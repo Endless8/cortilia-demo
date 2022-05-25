@@ -1,0 +1,19 @@
+{
+  "name": "Edoardo",
+  "address": [{
+    "street": "12345",
+    "number": "23",
+    "country": "Italy"
+  }
+  ],
+  "education": {
+    "master": {
+      "university": "Università di Camerino",
+      "year": "2022"
+    },
+    "phd": {
+      "university": "Università di Camerino",
+      "year": "2019"
+    }
+  }
+}
